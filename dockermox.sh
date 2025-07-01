@@ -46,6 +46,6 @@ sleep 2
 echo "IMPORTANT!!: IF YOU GET A CONFLICT ERROR SAYING THAT THE NAME PROXMOXVE IS ALREADY IN USE, THIS IS TOTALLY NORMAL PLEASE IGNORE IT AND LET THE SCRIPT CONTINUE"
 sleep 5
 docker start proxmoxve
-echo "Dockermox has started successfully started please access proxmox at 127.0.0.1:8006 on your browser"
+echo "Dockermox has started successfully please access proxmox at 127.0.0.1:8006 on your browser"
 sleep 1
 echo "Thank you for using Dockermox Setup made by NotRealZeyad (script maker) and Rtedpro (Dockermox creator)"
